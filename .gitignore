@@ -1,3 +1,10 @@
+.neptune
+bin
+ckpt
+logs
+submission
+models/configurations/configs
+models/models
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
